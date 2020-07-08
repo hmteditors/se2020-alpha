@@ -4,7 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>Scholia to Escorial Upsilon 1.1</title>
-                <author>YOUR NAME HERE</author>
+                <editor>Luke Giuntoli</editor>
+                <editor>Rose Kaczmarek</editor>
+                <editor>Iris van Kuijk</editor>
+                <editor>Brian Clark</editor>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -29,6 +32,71 @@
                           <p>μὴ ἐρίζετε, <choice><abbr>φη</abbr><expan>φησίν</expan></choice> ἔτι, μὴ δὲ καταπονεῖσθε κακοῦντες ἑαυτούς⁑ </p>
                       </div>
                   </div>
+
+                        <div type="scholion" n="e3_310v_2">
+                          <div n="lemma">
+                            <p><num value="2">β</num></p>
+                          </div>
+                          <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.736</p>
+                          </div>
+                          <div n="comment">
+                            <p>τινὲς <choice><abbr>φα</abbr><expan>φασιν</expan></choice> ὅτι τὸ πρῶτον ἐστὶν <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέως</persName>. τὸ δὲ δεύτερον κοινόν~ χαρίζεται δὲ ὡς συγγενεῖ⁑</p>
+                          </div>
+                        </div>
+
+
+                              <div type="scholion" n="e3_310v_3">
+                                <div n="lemma">
+                                  <p><num value="3">γ</num></p>
+                                </div>
+                                <div n="ref">
+                                  <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.742</p>
+                                </div>
+                                <div n="comment">
+                                  <p> ἐνίκα τοὺς ἄλλους δηλονότι κρατῆρας⁑</p>
+                                </div>
+                              </div>
+
+
+                                    <div type="scholion" n="e3_310v_4">
+                                      <div n="lemma">
+                                        <p><num value="4">δ</num></p>
+                                      </div>
+                                      <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.743</p>
+                                      </div>
+                                      <div n="comment">
+                                        <p>ἄριστοι <w>τεχ<unclear>νῖ</unclear>ται</w> τὰ τοι αῦτα οἱ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place71">Σιδόνιοι</rs>~  τὸ δὲ εἶδος εἰπὼν τὸ <w>γέ<unclear>ν</unclear>ος</w> ἐπήγαγεν⁑</p>
+                                      </div>
+                                    </div>
+
+
+                                          <div type="scholion" n="e3_310v_5">
+                                            <div n="lemma">
+                                              <p><num value="5">ε</num></p>
+                                            </div>
+                                            <div n="ref">
+                                              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.745</p>
+                                            </div>
+                                            <div n="comment">
+                                              <p>ἀντὶ τοῦ <q>προσώρμισαν</q> ὡς τὸ <cit>
+                <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:4.581</ref><q>στῆσα <unclear>δ'</unclear> <unclear>ἐν</unclear> <placeName n="urn:cite2:hmt:place.v1:place25">Αἰγύπτῳ</placeName> ποταμῷ</q></cit>⁑</p>
+                                            </div>
+                                          </div>
+
+
+                                          <div type="scholion" n="e3_310v_6">
+                                            <div n="lemma">
+                                              <p><num value="6">ζ</num></p>
+                                            </div>
+                                            <div n="ref">
+                                              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.757</p>
+                                            </div>
+                                            <div n="comment">
+                                              <p>κατὰ τάξιν⁑</p>
+                                            </div>
+                                          </div>
               </body>
           </text>
       </group>
