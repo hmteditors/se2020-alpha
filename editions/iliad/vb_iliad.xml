@@ -5,8 +5,10 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>SECOND EDITOR's NAME HERE</editor>
+        <editor>Luke Giuntoli</editor>
+        <editor>Rose Kaczmarek</editor>
+        <editor>Iris van Kuijk</editor>
+        <editor>Brian Clark</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
@@ -18,8 +20,36 @@
   </teiHeader>
   <text>
     <body>
-      <div n="17">
-        <l n="1">Iliad text</l>
+      <div n="23">
+        <l n="734">εἰ μὴ <persName n="urn:cite2:hmt:pers.v1:pers1"
+ >Ἀχιλλεὺς</persName> αὐτὸς ἀνίστατο καὶ κατέρυκε~</l>
+        <l n="735">μηκέτ' ἐρίδεσθον~ μὴ δὲ τρίβεσθε κακοῖσι~</l>
+        <l n="736">νίκη δ'ἀμφοτέροισιν~ ἀέθλια δ' ἶσ' ἀνελόντες</l>
+        <l n="737">ἔρχεσθ', ὄφρα καὶ ἄλλοι ἀεθλεύωσιν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιοί</rs>~</l>
+        <l n="738">Ὣς ἔφαθ'~ οἵ δ'ἄρα τοῦ μάλα μὲν κλύον ἤδ' ἐπίθοντο~</l>
+        <l n="739">καί ῥ' ἀπομορξαμένω κονίην δύσαντο χιτῶνας~</l>
+        <l n="740"><persName n="urn:cite2:hmt:pers.v1:pers1"
+ >Πηλέιδης</persName> δ’ αἶψ’ ἄλλα τίθει ταχυτῆτος ἄεθλα~</l>
+        <l n="741">ἀργύρεον κρητῆρα τετυγμένον~ ἕξ δ’ ἄρα μέτρα</l>
+        <l n="742">χάνδανεν~ αὐτὰρ κάλλει ἐνίκα πᾶσαν ἐπ’ αἶαν</l>
+        <l n="743">πολλὸν~ ἐπεὶ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place71">Σιδόνες</rs> πολυδαίδαλοι εὖ ἤσκησαν~</l>
+        <l n="744"><rs type="ethnic" n="urn:cite2:hmt:place.v1:place127">Φοίνικες</rs> δ' ἄγον ἄνδρες ἐπ' ἠεροειδέα πόντον~</l>
+        <l n="745">στῆσαν δ' ἐν λιμένεσσι~ <persName n="urn:cite2:hmt:pers.v1:pers222"
+ >Θόαντι</persName> δὲ δῶρον ἔδωκαν·</l>
+        <l n="746">υἷος δὲ <persName n="urn:cite2:hmt:pers.v1:pers145">Πριάμοιο</persName> <persName n="urn:cite2:hmt:pers.v1:pers140"
+ >Λυκάονος</persName> ὦνον ἔδωκε</l>
+        <l n="747"><persName n="urn:cite2:hmt:pers.v1:pers158">Πατρόκλῳ</persName> ἥρωϊ, <persName n="urn:cite2:hmt:pers.v1:pers1300">Ἰησονίδης Εὔνηος</persName>~</l>
+        <l n="748">καὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεὺς</persName> θῆκεν ἄεθλιον οὗ ἑτάροιο,</l>
+        <l n="749">ὅς τις ἐλαφρότατος ποσσὶ κραιπνοῖσι πέλοιτο~</l>
+        <l n="750">δευτέρῳ αὖ βοῦν θῆκε μέγαν καὶ πίονα δημῷ~</l>
+        <l n="751">ἡμιτάλαντον δὲ χρυσοῦ λοισθήϊ ἔθηκε~</l>
+        <l n="752">στῆ δ' ὀρθὸς, καὶ μῦθον ἐν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place114">Ἀργείοισιν</rs> ἔειπεν~</l>
+        <l n="753">ὄρνυσθ', οἳ καὶ τούτου ἀέθλου πειρήσεσθε~</l>
+        <l n="754">ὣς ἔφατ'~ ὤρνυτο δ' αὐτίκ' <w><persName n="urn:cite2:hmt:pers.v1:pers150"><sic>Ἀ</sic><corr>Ὀ</corr>ϊλῆος</persName></w> ταχὺς <persName n="urn:cite2:hmt:pers.v1:pers281">Αἴας</persName>~</l>
+        <l n="755">ἂν δ' <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσεὺς</persName> πολύμητις~ ἔπειτα δὲ <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορος</persName> υἱὸς</l>
+        <l n="756"><persName n="urn:cite2:hmt:pers.v1:pers712">Ἀντίλοχος</persName>~ ὃ γὰρ αὖτε νέους ποσὶ πάντας ἐνίκα~</l>
+        <l n="757">στὰν δὲ μεταστοιχεί~ σήμηνε δὲ τέρματ' <persName n="urn:cite2:hmt:pers.v1:pers1"
+ >Ἀχιλλεύς</persName>~</l>
       </div>
     </body>
   </text>
